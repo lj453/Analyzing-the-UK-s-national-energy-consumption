@@ -58,5 +58,5 @@ The analysis provides insights into the energy consumption trends of the UK, hel
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the University of Exeter - see the [LICENSE](LICENSE) file for details.
 
